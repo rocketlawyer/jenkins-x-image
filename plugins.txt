@@ -95,4 +95,4 @@ workflow-scm-step:2.6
 workflow-step-api:2.15
 workflow-support:2.18
 ws-cleanup:0.34
-allure:2.27.0
+allure-jenkins-plugin:2.27.0
